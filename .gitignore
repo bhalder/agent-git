@@ -1,0 +1,122 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+.eggs/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# macOS files
+.DS_Store
+
+# Thumbnails
+.thumbnail_cache/
+
+# Alembic
+alembic/versions/__pycache__/
+alembic/versions/*.pyc
+
+# Docker files
+*.pid
+docker-compose.override.yml
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Python virtual environment files
+pyvenv.cfg
+
+# Poetry-specific files
+poetry.lock.*
+
+# Celery beat schedule files
+celerybeat-schedule.*
+
+# Editor swap files
+*.swp
+
+# Temporary files
+*.tmp
+*.temp
+*.pkl
+
+
+db_data/
+local_scripts/

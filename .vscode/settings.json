@@ -1,0 +1,35 @@
+{
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "always"
+    },
+    "search.exclude": {
+        "**/.venv": true,
+        "**/**.lock": true,
+        "**/.mypy_cache": true,
+        "**/__pycache__": true,
+        "**/.data": true
+    },
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/__pycache__": true,
+        "**/.data": true,
+        "**/.mypy_cache": true,
+        "**/.pytest_cache": true
+    },
+    "cSpell.words": [
+        "genai",
+        "pydantic",
+    ],
+    "python.defaultInterpreterPath": ".venv/bin/python",
+    "python.analysis.typeCheckingMode": "standard",
+    "python.analysis.autoImportCompletions": true,
+    "editor.rulers": [
+        88,
+    ],
+}

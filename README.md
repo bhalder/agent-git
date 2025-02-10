@@ -1,6 +1,11 @@
 # agent-git
 Develop Agents in a structured manner backed by GIT
 
+# Setup steps
+`poetry install`
+`poetry run jupyter notebook basic.ipynb`
+
+
 ## Vision
 Our goal is to significantly lower the barriers to building production-ready systems by providing a streamlined, easy-to-use platform.
 

@@ -18,6 +18,11 @@ Our platform is designed for users to effortlessly create and deploy intelligent
 ## Solution Overview
 We offer a comprehensive toolkit that integrates with GitHub, enabling users to manage agent development seamlessly. Our tool simplifies the creation, deployment, and scaling of intelligent agents through a user-friendly interface.
 
+![AgentGIT](https://github.com/user-attachments/assets/e7630a08-3802-47b7-992b-dc98701f248b)
+
+
+<img width="621" alt="Screenshot 2025-02-09 at 6 22 07 PM" src="https://github.com/user-attachments/assets/9dbf9540-f5a8-450d-b453-1d1b9a0fd1a6" />
+
 ### Agent Features
 - **Persona:** Each agent possesses a unique persona that dictates its interaction style and responses.
 - **Memory Capabilities:**

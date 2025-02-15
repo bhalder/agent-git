@@ -2,6 +2,7 @@
 Develop Agents in a structured manner backed by GIT
 
 # Setup steps
+- Fork this repo - https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo
 - `poetry install`
 - `poetry run jupyter notebook basic.ipynb`
 
